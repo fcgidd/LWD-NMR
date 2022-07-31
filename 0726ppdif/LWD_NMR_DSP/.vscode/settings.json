@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "myheaderfiles.h": "c",
+        "myvariables.h": "c",
+        "dsp281x_device.h": "c",
+        "myfunctions.h": "c",
+        "dsp281x_examples.h": "c",
+        "mydefine.h": "c"
+    }
+}
